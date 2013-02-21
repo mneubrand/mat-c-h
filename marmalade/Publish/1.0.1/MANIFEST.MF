@@ -1,0 +1,426 @@
+Archive-Manifest-Version: 1.1
+Archive-Created-By: BlackBerry Tablet OS Elf BAR Packager 1.4.2
+
+Package-Type: application
+Package-Author: Markus Neubrand
+Package-Author-Id: gYAAgDCxVmVIxtv73L0YKwmF82U
+Package-Name: com.markus.match
+Package-Id: testDev_arkus_match3d22b38f
+Package-Version: 1.0.1.1
+Package-Version-Id: testMS4wLjEuMSAgICAgICAgICA
+Package-Architecture: armle-v7
+
+Application-Name: match
+Application-Id: testDev_arkus_match3d22b38f
+Application-Description: match
+Application-Version: 1.0.1.1
+Application-Version-Id: testMS4wLjEuMSAgICAgICAgICA
+Application-Category: core.games
+Application-Requires-System: Tablet OS/2.1.0.0
+Application-Development-Mode: false
+
+Entry-Point-Name: match
+Entry-Point: app/native/match
+Entry-Point-Type: Qnx/Elf
+Entry-Point-Icon: native/icon.png
+Entry-Point-Orientation: auto
+Entry-Point-System-Actions: run_native
+
+Archive-Asset-Name: native/assets/back.png
+Archive-Asset-SHA-512-Digest: PsBERIwMQgBA1vXFP94-F5w687vXSAa2X6fMpkjIl3zvSqlCnFFhn0CM9DBtUuALk_6AEs5k8zUZmgMFMYAeGw
+
+Archive-Asset-Name: native/assets/back2.png
+Archive-Asset-SHA-512-Digest: wx-pQRLlzfwT7HYfj3RJ-WJssZhZMxsZvE1YFsKBAgYLbfJS4JRxK_XcUPQO_alFIQ7zuJmzCngmsuwtVj8FHg
+
+Archive-Asset-Name: native/assets/background.png
+Archive-Asset-SHA-512-Digest: IkgPVT4Ryo8VHM0DGlBSLGFcYZkbqW7ef7_AI7xOdw2UdTPARkln7zbv7CmFiurXg00bml9wNJxszGogSzP6ug
+
+Archive-Asset-Name: native/assets/button_atlas.png
+Archive-Asset-SHA-512-Digest: jFE3LstrBlOo__3l7JUAxe8aA4hi7ze_PZEWzOgYpwebqND7Vk6Q7Z19kyQXIYYsT2_Kk9xg7tWQFcYZTKhlYQ
+
+Archive-Asset-Name: native/assets/button_field.png
+Archive-Asset-SHA-512-Digest: ApLeN_BLjuuCFdHEZl4Qzr8fAq4PRAxKdX7ynDXIMI2XA3bxTgFp1xW3eck-JeEJ7-kGMPyc_yUI8TswbxwV2Q
+
+Archive-Asset-Name: native/assets/button_field_correct.png
+Archive-Asset-SHA-512-Digest: iKqBtyn4LIw4042EYc_3zX6zvgHeHviN7M4g2YEiMgFDOpV_VGNLhSOpdThdug5V7VsnrqNQeam5Bed_GDGjTQ
+
+Archive-Asset-Name: native/assets/button_field_pressed.png
+Archive-Asset-SHA-512-Digest: OGswPj5GfITRfVMA5Kl9DZDhHgzx3DMxNIh41AGvC1jgTW4MqtSRZXNceiqgORRS5rBwlspbXc1uKxNc9KZc3w
+
+Archive-Asset-Name: native/assets/button_field_wrong.png
+Archive-Asset-SHA-512-Digest: k8Sx3_yXWqCNtIUgoIXdIfEWjruOXtFVJ3_E5mAvErhNDuqVegI58uzIFVZaC9-T_U9WSR-rgPpGLgyESbaBLg
+
+Archive-Asset-Name: native/assets/button_powerup.png
+Archive-Asset-SHA-512-Digest: 8pXmghvAb08iUK6zUmg0Njrr4k3c0hhE60Wwcd9wdoUyt5Kt-_7r-g-yxbYjJUC7eNLde_L7b8Pm6mveVHJFMw
+
+Archive-Asset-Name: native/assets/button_powerup_overlay.png
+Archive-Asset-SHA-512-Digest: t-oyFz9fsCrJCC1gTpAshtshoM-pkHsYMKAfJldNNrV9pip1u71JxWSQawrlhivWUwZ0nfMxPWO09PDxgBTSgA
+
+Archive-Asset-Name: native/assets/button_powerup_pressed.png
+Archive-Asset-SHA-512-Digest: hTKLgS7TnKjUxOKIhVoZ6JMHZPiTpcPsOIbED1qWWZtJJyQML7DtOMJueiw5M3VNsDjL950fqfxOsh7K_IUu7Q
+
+Archive-Asset-Name: native/assets/classic.png
+Archive-Asset-SHA-512-Digest: QVvfhfLX8GGGudngW2J9ISozgOgLqBvMJrbkIchCvI6D33-ghu8LHjCXQUkAg7zumeY4eHCg6rkKAvgMdk-VmA
+
+Archive-Asset-Name: native/assets/countdown_atlas.png
+Archive-Asset-SHA-512-Digest: IAZn_lJXLW3FSeLt-ol5a7-7LS3wV5c8pCGh-VH_SjvRZKHSqQErR0DktqmEA0c_OvVzVCcLtDCzvsbsmjzVIQ
+
+Archive-Asset-Name: native/assets/dialog_overlay.png
+Archive-Asset-SHA-512-Digest: KduJaJwnav7MoVfehKLjjjV_d3PYtqhOSLqf03_uLufaYs93oKU1EX2_ukIu2cbZZljBP4TcQPMxYVo5JCnnXA
+
+Archive-Asset-Name: native/assets/font_green_big/0.png
+Archive-Asset-SHA-512-Digest: D62L40BsXJP8XimTGnq3iYEBPARYYs1opfaaGPbua7CBgmZFBHIaopzx90sFP8JGRr3BDdyUfDsanOdPWpEhBg
+
+Archive-Asset-Name: native/assets/font_green_big/1.png
+Archive-Asset-SHA-512-Digest: ZjPJk_lS5VT8fzKP3FTlw_eV258nntzKXknoX7UEJE9r_AEQFPjQQODzsS3IyPZqYiVXWOyuc_7pVYTXcWOpow
+
+Archive-Asset-Name: native/assets/font_green_big/2.png
+Archive-Asset-SHA-512-Digest: E5sTjlDwdap1pEUZ86ZsyCR1M930jLSVk4wAiJdmN4Fa3-X7DQy1TaBSsa6kgFzKqDMTSRpjzw94g3og_ecBhw
+
+Archive-Asset-Name: native/assets/font_green_big/3.png
+Archive-Asset-SHA-512-Digest: DZSiMOWKAgCmyqOffEmJxLQbTFoPlYs5G2v0qzlvGlRHQkwC1w0XGTHIuyX93HipHI66bxpgjUKoXK8JWb-XiQ
+
+Archive-Asset-Name: native/assets/font_green_big/4.png
+Archive-Asset-SHA-512-Digest: Uw6YelwE2VxfL4V7ovL9-XbyjZQWv0JiJmP6R3I_0arj85WgkObUQ1p4bAIQ5rcKq5eac0_BynXTM8CsmTcepg
+
+Archive-Asset-Name: native/assets/font_green_big/5.png
+Archive-Asset-SHA-512-Digest: IlV3ttRBs9t_Ee5tfnXXQ8A43OlnMB022JP5mLiyPISOalrBR_rrcDWEuLZZrczN80D4KrlPe_0MdqGInNeBkw
+
+Archive-Asset-Name: native/assets/font_green_big/6.png
+Archive-Asset-SHA-512-Digest: gd7iKU0ysUuAg4XfuLsgjFckSvWsh95Knr8AiF8M6GjQLYQlM8itFUYVVCrpyTPqSNUaU0S82uPKnsV2pzAVGw
+
+Archive-Asset-Name: native/assets/font_green_big/7.png
+Archive-Asset-SHA-512-Digest: iMC_0vzuudsAryLfIO0jk2wxMM2J157cogKncVdHQJ-maDZ_cOjxDyd3t6aRFCc-JT-NRmrQlmz8veEOSDqE7Q
+
+Archive-Asset-Name: native/assets/font_green_big/8.png
+Archive-Asset-SHA-512-Digest: U1sjaKBFXPiswsXQKyiHA7kxBourD1oVri5f7eO1eMGS8HHLlu0mp0xdltY0JESewx7kBIBgtXR_iq-gQU6OPA
+
+Archive-Asset-Name: native/assets/font_green_big/9.png
+Archive-Asset-SHA-512-Digest: R3Oj_3bZxQX1NITHNjFJIqY0bZG7zYPEDWoY3DgWImE8zakoK5htwDQuw1lLZHJxWSikGaSpSORXycVf-5MoZA
+
+Archive-Asset-Name: native/assets/font_white_small/-.png
+Archive-Asset-SHA-512-Digest: 0fQZ_vmNanBKiavlSHv6l0cgH8YyR56PmZHx29h-2M2KTi3xotrqPkb9wWvK_X8NlZLqIoURMW-_tVCLSdwPMQ
+
+Archive-Asset-Name: native/assets/font_white_small/0.png
+Archive-Asset-SHA-512-Digest: Bg2QavEiU98xv8jXew9l9QLJfoHJFZc1bBdfq3l5ASRmGzic05zoocWtDic-fmdtqUDqeQ9-DsKvJPjWaaICng
+
+Archive-Asset-Name: native/assets/font_white_small/1.png
+Archive-Asset-SHA-512-Digest: V0MUZOnNzBxVYMWCO6Cjco19b6sh6L8P4T45n80y3EOff0V0M3gkN146SKp8yJGBRX8bHraszO_DBYKNSGH-lw
+
+Archive-Asset-Name: native/assets/font_white_small/2.png
+Archive-Asset-SHA-512-Digest: yNIAyaw4OhOs653OFeV-mfE8_1JVpgH4PcVNdAL7vIDfEWPii-6p7uGiL9jc5HDg8rhz2Zru20J0C9D_EdaYwg
+
+Archive-Asset-Name: native/assets/font_white_small/3.png
+Archive-Asset-SHA-512-Digest: IcCxmUghDHzLfyz6ff53ZrqkSeJq8tjZjUNu8_eQaHvwySEx6_3NVNmHodafraLPIdEMCbEGwdBA1XEAnoA3Fw
+
+Archive-Asset-Name: native/assets/font_white_small/4.png
+Archive-Asset-SHA-512-Digest: VOxBz6ZpY8OAhL3CtojKD95Ah8bY_ZmlERdWrlwUiJkV-SYytCMRd2CvRgj73VynGM9oRrm9YJH6RaoxzQHfiA
+
+Archive-Asset-Name: native/assets/font_white_small/5.png
+Archive-Asset-SHA-512-Digest: 4hOh9IdT_xe4VEDvLahCzchUW7FxwWn1lzZtAJcfNnpW-oO3Z9zNhKku2JIiWsYfrkcV0zm4qQjcgIbDKMZ4hQ
+
+Archive-Asset-Name: native/assets/font_white_small/6.png
+Archive-Asset-SHA-512-Digest: Hnv__8pOB7ZI2Ws0wCdrFPZmMJsEdLkHS7PdznL_4fNTLT7VSuc_UXq2og1pXfevbZPnyyRZff4LsSbzU1BcFg
+
+Archive-Asset-Name: native/assets/font_white_small/7.png
+Archive-Asset-SHA-512-Digest: yLFYAVIc0Hv5YKfHCAVZEpaTVBiYXSa3C-tfccTopjRBbpMVLANsTGVexhgPt80U1sGIszfm5xd6BcO93RNvAA
+
+Archive-Asset-Name: native/assets/font_white_small/8.png
+Archive-Asset-SHA-512-Digest: czeOqE3Bs6a2E9XKjpLqGEKZawz-1V5jHIab0acKjX3BzcWSS7CtYR1hyose946Dcku2qP1MX0_X7g2OSosOHg
+
+Archive-Asset-Name: native/assets/font_white_small/9.png
+Archive-Asset-SHA-512-Digest: XxnSZMZ-J_k8X7oFPz0-AoTtPd1MN6WRgOAtqeiEiNjf6D41behPF1vr5Qvb7bQi8jlBW_IpL7_CEGLybK101w
+
+Archive-Asset-Name: native/assets/font_white_small/colon.png
+Archive-Asset-SHA-512-Digest: Z-gTxeqIUIAUmNebG7VXLw1sZ5eTknnyXSyqy7vs0mXX9kimYtwfbybjBa52bM6cVn6r0-Na6gsqugpTPE2dEQ
+
+Archive-Asset-Name: native/assets/game_over.png
+Archive-Asset-SHA-512-Digest: pcylphE6CjXV0GaTcPur6SyEzRHdu_zQXGBSmv5hi8Zqwcpgh1kS6yMYlM01a5mXdW3RUN2uRP-gLPjMxYXOFw
+
+Archive-Asset-Name: native/assets/guess_atlas.png
+Archive-Asset-SHA-512-Digest: t6ZWqZGWBFrSoSxiy-YR7yUdLt3oRV5kSWTW5C6oNmhFuVM1ICViW-5Z3VKTH2WyBAui9TJzVCDzOeR8V5-e6A
+
+Archive-Asset-Name: native/assets/guess_atlas2.png
+Archive-Asset-SHA-512-Digest: bEPt6HEOjj2BaF1ZnpUAFSIo9Yn-cr4G8VkXFQULc49f3cWLuW1PPczYWeeSBdLlcEWi08xO7Rjr_zJHyuj66w
+
+Archive-Asset-Name: native/assets/high_scores.png
+Archive-Asset-SHA-512-Digest: Ndo5MTxLeAwZTyjVxOQvVLnCDonqrckjJenPurF7KaUWYGOXYM_xYe7rWsA4kceg-f3ULoPMihzr8a_StpxgQQ
+
+Archive-Asset-Name: native/assets/icon_1.png
+Archive-Asset-SHA-512-Digest: Y2LpvsYH_ycjKiqMziKTXXcCDyrMyh8j8kU4nXQy_pmezPH0ElDLwe04nNHNkxrWdiCi_NGm9pQh5Cee1I3CDA
+
+Archive-Asset-Name: native/assets/icon_2.png
+Archive-Asset-SHA-512-Digest: FdIHpXUFOoPE_Txvz3EUdTHDttVFRMdQZvVV8fo4y1npWJY8MHlkkKo1IsB5XD9_xidwWs1nqNT7cKD0fjUWEg
+
+Archive-Asset-Name: native/assets/icon_playbook.png
+Archive-Asset-SHA-512-Digest: utDY93DtOKqWZQv1YkxDxtTUEEAj2xJ8VcWKQoM56lqDqeD9sbnwl2dj5-ZkDmma5DoX6DLQKpcJJQdMS4SFlA
+
+Archive-Asset-Name: native/assets/new_highscore.png
+Archive-Asset-SHA-512-Digest: Fv9lko9VIpKFfBMazI9IzPh2ZDm_NNRWKER54JSW06gzAPWfLLAAqSFd1mg8BgKo4IZ_A-pCdvy1NtOQzL-oew
+
+Archive-Asset-Name: native/assets/numbers.png
+Archive-Asset-SHA-512-Digest: lhJpz7Nj2PbqN1qq-qH2PS38-HhtyAMciS2Aqo7GAV-qpN_TO6xKwWQwFchq4KwXXN_IcamsxdgU_o9W16gcDg
+
+Archive-Asset-Name: native/assets/number_background.png
+Archive-Asset-SHA-512-Digest: G_rm7UMyBSsneaF1Wq5EU64zE2M11WmEBLDJkXax41XGJofcRm-eScSKqwpn9HoD-ODNGjY_WDD_xSChjr17yQ
+
+Archive-Asset-Name: native/assets/one_minute.png
+Archive-Asset-SHA-512-Digest: v4HytvgRC7mZv2rMq2P0De7T4ycyh-ozTJdecm2mWpt9D9WOBlUo17nte4jiOSrXwe3CwYvEWlpJB_TdTOmzbg
+
+Archive-Asset-Name: native/assets/pause.png
+Archive-Asset-SHA-512-Digest: d_8KVi0x8hgBldY4pQHKA045zTRXsEjlYI2h0_59YJlzXuacricoOZyA3icZk-sCPVSMNof262BFlE_pe4EdPA
+
+Archive-Asset-Name: native/assets/paused.png
+Archive-Asset-SHA-512-Digest: --BHGQ6SXBUdUiOd5jP8N29KrS7ljLRGnnLXbG1UILBYJC2IuqgHr0YnEsif32Uq73xb_-o_-DDL5IwmrI_dkg
+
+Archive-Asset-Name: native/assets/powerup_atlas.png
+Archive-Asset-SHA-512-Digest: eI0E1NzrTCF8SiXZcSoVFZSmcI9_PPht8rZeldB4wKBRhY1MXY-nU2NIuajQNJ3GBvjwCZ3XOsKvVUg_J4JmDQ
+
+Archive-Asset-Name: native/assets/powerup_bomb.png
+Archive-Asset-SHA-512-Digest: HQZQghdpCRQCvcLIu48veJVEqQQl1gqMSUpcUhkMRk7tg8bNPCH0ILcRXPBZecSv2ItxigemwRf_vV0V5iI9fA
+
+Archive-Asset-Name: native/assets/powerup_random.png
+Archive-Asset-SHA-512-Digest: E8SKDR0PcFZUFYamVogJaorUtlhigr05R8s1LvKeyywJ7skni9FyGiD9NC0SuudC8SbSrDrlAdc1Q95JyWmI6A
+
+Archive-Asset-Name: native/assets/powerup_skip.png
+Archive-Asset-SHA-512-Digest: LhYzoY1BFdKntPI4ccyZmCCh_sC-PaA65o-hA32ATLhkGoAtZWYUAdvUBkoLjrYhwonQFECCkUbBhdQ6ehD6ag
+
+Archive-Asset-Name: native/assets/powerup_swap.png
+Archive-Asset-SHA-512-Digest: 8wW0l0WTQoB3gh8pcGCl5n1d9fEb9h9FT6c0rp1eFLVTdlhPC8HcLZEWmTas0JTPvREcaHfyefdNqucmcc6iEw
+
+Archive-Asset-Name: native/assets/restart.png
+Archive-Asset-SHA-512-Digest: zyyTDwdLL_0qHfdn7r4Puw-ENSuKskKvM_wyehsejiOsNwvfgQ2QQkaETCUulvHGMmRY-8nb1xcVz-I8Llrg-w
+
+Archive-Asset-Name: native/assets/resume.png
+Archive-Asset-SHA-512-Digest: OifwqliyLEndp3fOiRk-kJyW-wBqo41dZVN5nfz-QcX5nylp3iNj7DaUrJGF72oePsk94jlJSVmJiZz4U85AAA
+
+Archive-Asset-Name: native/assets/score.png
+Archive-Asset-SHA-512-Digest: KQtQFIOeMBBUDfmNptp0_PDXNOC_0_u6JbhwsA3clFTHHjZNiwHVVa7rwMqkeBQfJipnqg5RQy3BSgbfQHb18g
+
+Archive-Asset-Name: native/assets/scores.png
+Archive-Asset-SHA-512-Digest: KKuF7fEUAbBuwWR-F61E9-XtCaGG9-LwogkCDwk2HJmK1TkkU5uQXQ78CNnvhqXi_1mSXrIx42vbi1B05etrOA
+
+Archive-Asset-Name: native/assets/spark.png
+Archive-Asset-SHA-512-Digest: gczvilHnp1CSTd_fNVFocbmChytZqYqKV48ZsWmKxIdPkeCDL8Nd9FnFeDHnzyQy-JfiW6s9UhqLhpY1Y7qpLw
+
+Archive-Asset-Name: native/assets/splashscreen.png
+Archive-Asset-SHA-512-Digest: tVXreuEFFwlRO1K0X2VCcMHhWlJGDUMIp0RdQ8rP2QDUX5Ieo70cM6Cqx6buwfuccUAAvwWqmF91DbUb3RFUxw
+
+Archive-Asset-Name: native/assets/ten_numbers.png
+Archive-Asset-SHA-512-Digest: Nb-sEv7eafPtV7soRiyNrdRBKTXLhOpHm9GzwGB-2kBtrOYP4HuKeC1ZhMGDY95CYUjrg6puBe0T8OXlJAPKEw
+
+Archive-Asset-Name: native/assets/time.png
+Archive-Asset-SHA-512-Digest: 8_0_7N1RfXPxQIQjAAs2NiM3vt8teLKDF3vIlzpFAQBqARH_U3Y1Ot9MDioDCFzHyHqI3G6DVAvIQVZuck1eaQ
+
+Archive-Asset-Name: native/assets/tutorial.png
+Archive-Asset-SHA-512-Digest: m3vs2OD8wpPEaTiUoJ41GQjeXV2I1GMA7gFUXlzwDu-fC-lplWM50R5FljOHhwlW0yfz8xr3ZFfAYKVcEnvICA
+
+Archive-Asset-Name: native/assets/tutorial_atlas.png
+Archive-Asset-SHA-512-Digest: ChQFGZbBDzIMMHO3XykoegVom92IWf8-qb9qLh71VAxGNcwOriP81KmdqeQFPEGFWhf3R9MEa93zo7ZXZYc10Q
+
+Archive-Asset-Name: native/bar-descriptor.xml
+Archive-Asset-SHA-512-Digest: jZuN--0xateLidrymWT4MEKQniWq1P3M8XzPKnbSAMM_VglK4SEHsB1ehWbg0AKsERupaqHZIeynNEFo6rG6FQ
+
+Archive-Asset-Name: native/common.icf
+Archive-Asset-SHA-512-Digest: 4xcBMdL5B2_vtni803Qc47ouGuYCK50Jf7MEHtciz-YiTSMUP3knnyu_el84FM0eBakpjxL8eVmCjj3C0PMgSg
+
+Archive-Asset-Name: native/game.lua
+Archive-Asset-SHA-512-Digest: rhXNYwdcqU8SMguOztOO40U8IyOC2GeBXm2loNWmbjV_WOPKBaEz_bIIWK88xKKJPbpl4aNHfSGnJ0YRZR5-Lw
+
+Archive-Asset-Name: native/icon.png
+Archive-Asset-SHA-512-Digest: 3qZkdCM3rFyjp_pEQdPN9-fYVXK22WDWUJJhqYNxpH265B5kwmMskMArJrhgvmKBkbYoEs22CA34TFNldGdhjA
+
+Archive-Asset-Name: native/main.lua
+Archive-Asset-SHA-512-Digest: ZaE0OEM_v0vBC7UwzsZuIDhbrH0jkt68cE45KTn4GPD8ocJFIWn2F8RLNrgWXEAwD6LGrPDnnYuXCSuJwB23BQ
+
+Archive-Asset-Name: native/match
+Archive-Asset-SHA-512-Digest: dpM9R0Fz05fRs6QUnZv4hdZwhoPN5FNTX31oeuksaB-N2bSjIP_By5_XVSZRivgcG4DFSFhrPN4GDeevZXMq3Q
+
+Archive-Asset-Name: native/match.s3e
+Archive-Asset-SHA-512-Digest: j-BDEMu7_TwmHDfnSZqESkO19QmGFIjhjDsBQNCPj3ngqxs3Ef_cV45qgI-QqZwNhmWp7PY1NDyp0MftM1juXA
+
+Archive-Asset-Name: native/menu.lua
+Archive-Asset-SHA-512-Digest: KroK0WYFS5MhcGIh8uTSY2rRlb60_LBgdhwUmjwOL6rkrCNQVWb9eljOVBm9f53m4V5BLvExfG2afK4FGFMzRg
+
+Archive-Asset-Name: native/quicklua/class.lua
+Archive-Asset-SHA-512-Digest: GCScAxHv4s1wtEroL9NmMOSknXQbdEuPdwABtKWo2e9WSB1sbHsgucyLlePUkKJjKXev3p9wLiB4155Wjy71bw
+
+Archive-Asset-Name: native/quicklua/config.lua
+Archive-Asset-SHA-512-Digest: S7QA3nVW802wyXGIvrKhYBiYTkK2NXcb3KDVhHezNTDGdMIQeKIoQwCHk1JiSHIizkfamFoek3a5o-5LKv919g
+
+Archive-Asset-Name: native/quicklua/dbg.lua
+Archive-Asset-SHA-512-Digest: 4XuPJ1WgdQSdKfqq_kJ1k8HHmpk5KKvxsLbDmuMUlNlh1UH48Am95QCQcPjk43AztXhSTFrZsonvFv27oC8VIA
+
+Archive-Asset-Name: native/quicklua/json/json.lua
+Archive-Asset-SHA-512-Digest: sCbSFTQPF7FE6Cy8n04-D5CCZlyR-swxPdsZnt3INlbl1UcHNM-sDKvmaXR7bdtxkMbh0QdnS7vSahhdAqidvw
+
+Archive-Asset-Name: native/quicklua/lua_socket/ftp.lua
+Archive-Asset-SHA-512-Digest: pcociVWkUKcnlQ2RtyCJXbVfQl8lMbwtLRcDQ2OWHtUrbMCGKJ-WasPCewVkUqtRJux9m7NM9akv3w9yX0B4HQ
+
+Archive-Asset-Name: native/quicklua/lua_socket/http.lua
+Archive-Asset-SHA-512-Digest: AZElAMQfYBPUU2iE4nZtqlin0RqyZDjSmbq6xoXs72cOGwRkUzfwzK6fRFMH3lcPFvzcXTSyB6JdXJMie3uIzw
+
+Archive-Asset-Name: native/quicklua/lua_socket/initls.lua
+Archive-Asset-SHA-512-Digest: I1yDYxGv0-kA2jpok31Bdpsk-lWuHg1kt0rAS4HRrqwD2bJWzs3BLg7ljH-nS2vwQbiX7Gd5HCFh3kaERfGGBA
+
+Archive-Asset-Name: native/quicklua/lua_socket/ltn12.lua
+Archive-Asset-SHA-512-Digest: ioLfkEWZKd4cke0poSKhSXSdQq27hfrwwxI9DwiGuryQy5PehRBf63SXtGVSpnR64FuYX1pIjR2PGip9tEB3tA
+
+Archive-Asset-Name: native/quicklua/lua_socket/mime.lua
+Archive-Asset-SHA-512-Digest: eanOkZFW_cOHYs4Jgkodq4ds6VZ4oM3cl92MeAo5EbhFY-DsoF8fd-XhyzbV0tLOBmn-f3-nyDplFT2sIb_4EQ
+
+Archive-Asset-Name: native/quicklua/lua_socket/smtp.lua
+Archive-Asset-SHA-512-Digest: xcZIRF6pUNWK_7rMiymfJugLVcQCcZXNwFXn0u5-NZOlnLNvuouNu4hhYD1aA9mGcGUFK2o7_RhZCovZ3ZaqxQ
+
+Archive-Asset-Name: native/quicklua/lua_socket/socket.lua
+Archive-Asset-SHA-512-Digest: JjGorIT5AUEWsBKFIELNt2Hbj3_Zs01Bhc302aUEr762M5PvYseQotYXkQDOEI-OFrbD5hAlLkabuazNu18JuQ
+
+Archive-Asset-Name: native/quicklua/lua_socket/tp.lua
+Archive-Asset-SHA-512-Digest: 7MmJkcJQNrVPK7cbMinkvI-0AeVdsOX5yVjCp7ALQPya4tfkUALU8qA87IVTV4XEKrbSBHb-CVp2RE0UNJOxRQ
+
+Archive-Asset-Name: native/quicklua/lua_socket/url.lua
+Archive-Asset-SHA-512-Digest: sLdmrCtc_4eQCa2fdClferC_iwYouK7OVZckPg-pb0qFNhco_YoI7qfSYp38Xl2LauvKQyB1rXTBMa0xYaR1xw
+
+Archive-Asset-Name: native/quicklua/openquick.lua
+Archive-Asset-SHA-512-Digest: 285ys7Du2VzhxPyD7ezLRwQqg9cBumPq9pnxv9oR7LjJ-U9JIxJP99O05t1smugoalTnJN3fiDRR6oP6hdBT8w
+
+Archive-Asset-Name: native/quicklua/QAnimation.lua
+Archive-Asset-SHA-512-Digest: hpi_gqNRu4LjsxyqyKAEfo-V4Rg9VctuC1YamkcYacjA5vISbqFFBQQ7VxG10kQulCiQSN56ghvKSUpVDoI5Bw
+
+Archive-Asset-Name: native/quicklua/QAppStore.lua
+Archive-Asset-SHA-512-Digest: 3v9B_QV8VzQb3yChcf04OmUOlwDa88e5hTkR0Jc1vsyUek_Eet5X89MqrFzpXb4KBbuDF2po2PIx-M5NCe_Bjw
+
+Archive-Asset-Name: native/quicklua/QAtlas.lua
+Archive-Asset-SHA-512-Digest: e74aeUf_YYPPK766mkbC5TNuIYqjIa4mDJR5MxF3ThpUNBVx3RjFfyeYTN97Dsp3vP9Jy9P9FYbj1jtWeus3jA
+
+Archive-Asset-Name: native/quicklua/QAudio.lua
+Archive-Asset-SHA-512-Digest: PBA1GdmxHoSeTDfYR1CC1AmtLDsSqSaNO3NgUf8UYLhMqq29gzWx0TKjR6rSXllAVcbkbMDFctNyEs0QOqnUBg
+
+Archive-Asset-Name: native/quicklua/QBrowser.lua
+Archive-Asset-SHA-512-Digest: -8GfmTXc52c19DLkZMNICdy4o62TUoMA1xl4gU3rtyK7W4YhAD9nyW3EDA9PKq7WZCsdFkVscQL7r169I8vUzA
+
+Archive-Asset-Name: native/quicklua/QCircle.lua
+Archive-Asset-SHA-512-Digest: UdZYV6gMw0kz8NlEpyHnWKwQG1nZFEH0cZl_d8REcH4UedcgKmqTYD8rw4W3rRbLB_GKh9CO04nO5Jw3E7x6nA
+
+Archive-Asset-Name: native/quicklua/QColor.lua
+Archive-Asset-SHA-512-Digest: qtdEsuBsNr3GYqEaJ8i5wuytgNqTlz09VNmNxyhBzs1VUG4bMC9rESbtMyEpqwXtaSb9BrzD5KUBf_KXXf9gKw
+
+Archive-Asset-Name: native/quicklua/QCompass.lua
+Archive-Asset-SHA-512-Digest: b7Nww_kPT388RjMaPr9i1ciTAEB-AnsVHRR-oIrwwMGLeSaLkfG9KPFjx_1c8yYrdotq9jTxvkA4blyP1LOWyw
+
+Archive-Asset-Name: native/quicklua/QConfig.lua
+Archive-Asset-SHA-512-Digest: bZDI1WPyOkasvzVj0Mie6Ki96FS8u-pceSGz5lS4txXFpFjWeaC76jwlvA5JtUHejNOnYAb3kfu8DSTlfVmiBg
+
+Archive-Asset-Name: native/quicklua/QCrypto.lua
+Archive-Asset-SHA-512-Digest: hpa8gqZrhf3_RnVn2VlP2Tyh_hEyDYZdj9xwzZp7-LgJSkdZ7ug3XVxu9FeqpcvDZIHYvpQAIqQoPC0g6bP5mA
+
+Archive-Asset-Name: native/quicklua/QDebug.lua
+Archive-Asset-SHA-512-Digest: ngne7FWF_3AQ4mfVF4fmzDeg_QwWB6Nua0SJbGZGRq-uZsQnq-SrpjUvVLe7VimF5hb0Ldh4s0WOnLwp6D69jQ
+
+Archive-Asset-Name: native/quicklua/QDevice.lua
+Archive-Asset-SHA-512-Digest: ErfW6lEpDH4n0j9cp0ERPvl2L-ply0ys5nRjIOFmkLkzc2BjzddihlnaWAJ6xbAwGW69wRdCE583KlnX0oEnHQ
+
+Archive-Asset-Name: native/quicklua/QDirector.lua
+Archive-Asset-SHA-512-Digest: 7Q7XRlOttqeGKHg0sAwh6TWAdRZqtTLrVU18TBdbgupr5ZNn5OJjJl7tI4GVrjFrXT5KmjZ5Lw2MJ2A5i7htZQ
+
+Archive-Asset-Name: native/quicklua/QEvent.lua
+Archive-Asset-SHA-512-Digest: Ye10deq90LU38PVNwHBWi8JuMPnyb9f4dDxO3p6_J_j8J4pD9xfdDPNZPxcKXYvJpJwyznIMdLi7tO_jS1hnFA
+
+Archive-Asset-Name: native/quicklua/QFacebook.lua
+Archive-Asset-SHA-512-Digest: MGXJR9Qk67k6KRClIgi2EqCiB7AjL5LpkkqZ8DJevkP7wrHytLKt7PCZf7FS7pt0T_ZvW7wKqoCQZJ9ZkETY7A
+
+Archive-Asset-Name: native/quicklua/QFont.lua
+Archive-Asset-SHA-512-Digest: 7fBrs1Bzt_B5LMSMrj5dJ_TJEpGzOKn7ktR7cLczcmRIf82cFeR54XXPan50JzsjdV1q4gEz-AVGHJPsgagIog
+
+Archive-Asset-Name: native/quicklua/QIOSAchievements.lua
+Archive-Asset-SHA-512-Digest: XTJ7-YB9QgPpMi_hdx4i1E2BQKnrx5ctJNVA-v5wS9LZubaZBtSFz-zOU2MJb0I76OsfeJ0iVaCfONJvw8F2OA
+
+Archive-Asset-Name: native/quicklua/QJoint.lua
+Archive-Asset-SHA-512-Digest: 6Y05Nqizv0wCWi5DgivkpoZjTPtOySJjpKZVnG6cX3J7OyOummW8I6zxCRd0FLyFYlpG2H8fFqn6sw36CaSF6w
+
+Archive-Asset-Name: native/quicklua/Qjson.lua
+Archive-Asset-SHA-512-Digest: gOM2P8faAI0ZFoED_U7ItiVhG-l8o7KRGC2VUUJiND1z-Suh5jf3nRXJjDdsYksu-gIdLCQTt9Xi-npK85zGpg
+
+Archive-Asset-Name: native/quicklua/QLabel.lua
+Archive-Asset-SHA-512-Digest: 1Bi4wCmmQk9df-J6r_7aq47AP8D3EcCFSgzks4395quboFkkv-rC9SYNCPsL4GC46cmeRbKTAXap-btMz_I09g
+
+Archive-Asset-Name: native/quicklua/QLines.lua
+Archive-Asset-SHA-512-Digest: 6S4ULvs-6TO0cEFJP9L62rvYKJ5xAJHMqSzfPK-868ff7nyT_47jcPK0NqiICRQhGtybYgDPmve2LquM7OZhYg
+
+Archive-Asset-Name: native/quicklua/QLocation.lua
+Archive-Asset-SHA-512-Digest: 77GLJxDp4kNHcPPRmWTrAVe-ro9rkkh5XYGvCzg73R9boBoOuU0HV5dI9fHRobn3oKUWvEX7quwcvkg3i-UNLA
+
+Archive-Asset-Name: native/quicklua/QLsqlite3.lua
+Archive-Asset-SHA-512-Digest: kQ1CwJTjcbjv9YeQsE1JqtBaziY3yvPTNGqqLevEhmL2bV_3ZUpcUTftUWIprU1_dnKKqQlkjpMGKXGfeNS-Bg
+
+Archive-Asset-Name: native/quicklua/QLuasocket.lua
+Archive-Asset-SHA-512-Digest: dWoHBmA9QthE0_TqT9BpafVzB_y7R4GgrZyXbbIq6R1znBeExtgmdZRgBIC9vkdIT35LLlP0tw7E-4NDCR07ZA
+
+Archive-Asset-Name: native/quicklua/QMedia.lua
+Archive-Asset-SHA-512-Digest: T9RwGYk0ptQq0bptwn0jEg7I_O2_uNMMJzPZ_OM-iVoVu8Z1WbA_RQnoZJDjbAe3bCnPhwbxEKr4jBCMHVhpjg
+
+Archive-Asset-Name: native/quicklua/QNode.lua
+Archive-Asset-SHA-512-Digest: Yvb1-w1S4UOXlm-8rXIX6bzJLapJd9C9BoVPCdjZ2zIRrEqryuKbUulORLOSuB3q-72F8nAv9rwS8ZVWqLxWdw
+
+Archive-Asset-Name: native/quicklua/QPhysics.lua
+Archive-Asset-SHA-512-Digest: P53YSWIymZzpERMCDEG0bTZj8He44uYW7DpUE_aYuMndp447KcpFOAa4z-yLC61EtFHSaOtl0CGbiiY-rBpjHA
+
+Archive-Asset-Name: native/quicklua/QRectangle.lua
+Archive-Asset-SHA-512-Digest: KvtoKPTXTH_1eDZwIRj-YCGf0y6PN_NOvp1PwI3NzUElfgSjPC2Ij-GsoXz-djDYylT0r3g-UyVNtKJyzBih_Q
+
+Archive-Asset-Name: native/quicklua/QScene.lua
+Archive-Asset-SHA-512-Digest: IOUE2BPHybLYfSR_zXRB8QYsBNIioXB1cuHFzWHTiXfM6gSDL-wv7EAik_fonhOCT8i2BZkq8X9ED2yNVa4koA
+
+Archive-Asset-Name: native/quicklua/QSprite.lua
+Archive-Asset-SHA-512-Digest: _wpT8I-eVxQ5cC9h6XwMhOSfnT_-phnmpbAqUIggDbPu-T5bDaRrsNNrRXT4UZI_pb_YJz38bW51eOOVFYEy1Q
+
+Archive-Asset-Name: native/quicklua/QSystem.lua
+Archive-Asset-SHA-512-Digest: r88ZV_bgphEcv49QfzFXAljjGo6KWWVN30bizptZjr_9O0lOtAUTOVsaYtkA5kmjqI2Uc5xm6LRHBlfa7CsJbg
+
+Archive-Asset-Name: native/quicklua/QTimer.lua
+Archive-Asset-SHA-512-Digest: GgizoNJbcpIrYMb22NmPom7yW_-UzPoZbl3lfaeZRvgV8W4vOZz6zcR1AJDgkkUiODgGtcBLALxddWcCQyn0NQ
+
+Archive-Asset-Name: native/quicklua/QTween.lua
+Archive-Asset-SHA-512-Digest: amvQT_q6ld0G8R0Eh8aHoPZUlUPAlOU3BdUZZgBkMqkrTUhopVDsEwN_YbqEec-jGlxQ_hFg9HyfTrXoQ5ZGsw
+
+Archive-Asset-Name: native/quicklua/QUIButton.lua
+Archive-Asset-SHA-512-Digest: nIFjjxlTDJ9qpphrPRlecjmUYhXU9ioGDXpVWoMn8dq3EM7soQUUY4d_76lZNs-gPEaFDaEWav0h4vf-8L1iZA
+
+Archive-Asset-Name: native/quicklua/quick.lua
+Archive-Asset-SHA-512-Digest: 8YUnq-roO8ZMUr5qdkpVOd_x6KiOtIZSzZaG86R6crcgBSP7utJ9dWKLflx8AVYPx0W-y-PKN0EVLZkMp-L7Lg
+
+Archive-Asset-Name: native/quicklua/QUIToggle.lua
+Archive-Asset-SHA-512-Digest: LPjIq6PMv_7aZBYjF_PtONrQtkYwCIIXCcts7KeFEwiO3wKMyRXqd7112S4s5gB04pl9NfZ6UyQPcCQdt4w_ug
+
+Archive-Asset-Name: native/quicklua/QVector.lua
+Archive-Asset-SHA-512-Digest: tn-PZw6L-FMVUbmLIEx0_BKyXlDAvxJvA15aDi8ksEdqMJh7X4GcluRA3kIds1euh0J6A56oGb_aFeLzdbsEaQ
+
+Archive-Asset-Name: native/quicklua/QVideo.lua
+Archive-Asset-SHA-512-Digest: jp1wWuqtgUIwbZ7TaKycnaCsfCnT3n7SBA9PId5SosNuE6IHetWVMyUW_u-11Ww-OuQeVcCWQFDSVgTD0D1VvA
+
+Archive-Asset-Name: native/sounds/beep.wav
+Archive-Asset-SHA-512-Digest: eCCiGC5YLt0DOQ3NdHyp0BpdyvD9ZO0qddgySEoh5Y6X9rfLGB3aGCLC3M25pQ-b7CCb_ijGWhjUa48U1Sn9gg
+
+Archive-Asset-Name: native/sounds/beep2.wav
+Archive-Asset-SHA-512-Digest: wCeL86cwVs1VI6YcOYJkSLpGgHQUdqz4FqCuNq44zvJ1o1Mj5guIn4Jdbcchkz0oXuQ6g5t0KjWahXqdBP1J7A
+
+Archive-Asset-Name: native/sounds/blip_click.wav
+Archive-Asset-SHA-512-Digest: xgQiNq8BwBAXCCvl5W6CaQIPF4Ng4CHZJtLCpOdC8F6bgCLNS-7846GjJ1XKcsm17h_qS85L-2eQlLC7Mm7oaQ
+
+Archive-Asset-Name: native/sounds/detuned_affirm.wav
+Archive-Asset-SHA-512-Digest: T8Wp8b0loR5FeBndK-nKzBhuf-6PPbayPtcDyIAfptCjcWlym0kX6r5VfQVKPfvkd2-u-Df_LPxOUSDa1C8IOQ
+
+Archive-Asset-Name: native/sounds/electric_alert.wav
+Archive-Asset-SHA-512-Digest: gQYVo9EIoa3e6mV7WP2n15D823j_FOHT1ew7UMq6o6Aa0qvTtqcphjhvj3vn0WloeFQuxCURlauxRHlZnPzQzA
+
+Archive-Asset-Name: native/sounds/electric_deny2.wav
+Archive-Asset-SHA-512-Digest: FusiebV1GigFB9Ot4qNIRRrjMDN5NfIwWnKQv_zVy4RhVAhPq6MDs2dMOk9JDN4LPRwgGCKhGaJlBb-nvjMD0Q
+
+Archive-Asset-Name: native/sounds/POL-aurora-borealis-short.wav
+Archive-Asset-SHA-512-Digest: KFt39gnOxBzgn6IR6leqAtvhJWXMleqMMZEIoELR825jBbar4lerRfvxdAe-zE9Y9fL78ZWFoCkakzpGvGVQIQ
+
+Archive-Asset-Name: native/sounds/simple_click.wav
+Archive-Asset-SHA-512-Digest: -5bXFTEsjUA5RMFe8saWotBy5ODbAUndc5xO4A4TW4EH_AgaNkfschxgTTJTGjKxk73j4nc9vjzn4VYAEt37Hg
+
+Archive-Asset-Name: native/sounds/xylophone_affirm.wav
+Archive-Asset-SHA-512-Digest: 6rSckwPMvod_xAuFHMRn4evrYTOX97Czjd5zeS4Qxuyi7IiWLcqZB_RW7qkXUpfxNB4xsKzFdjPFpXPlvPEyww

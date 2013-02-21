@@ -1,0 +1,18 @@
+{
+    "name": "mat(c)h",
+    "description": "A simple match 3 game with a mathematical twist",
+    "version": "1.0",
+    "app": {
+        "launch": {
+            "local_path": "game.html"
+        }
+    },
+    "icons": {
+        "128": "icon_clay.png"
+    },
+    "promo_images": {
+        "440": "featured_clay.png",
+        "920": "featured_clay2.png",
+        "1400": "featured_clay3.png"
+    }
+}

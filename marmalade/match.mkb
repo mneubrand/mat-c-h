@@ -1,0 +1,65 @@
+#!/usr/bin/env mkb
+
+# Quick Project
+
+if {{ option use_prebuilt }}
+{
+    subproject "$MARMALADE_ROOT/quick/quick_prebuilt"
+}
+else
+{
+    subproject "$MARMALADE_ROOT/quick/quick"
+}
+
+options
+{
+    s3e-data-dir = resources
+    app-icf = 'resources/common.icf,resources/app.icf'
+}
+
+files
+{
+    (resources)
+    app.icf
+    main.lua
+}
+
+assets
+{
+    (resources)
+    .
+}
+
+deployments
+{
+    ["Windows"]
+    win32
+    arch=x86
+
+    ["Mac OS X"]
+    osx
+    arch=x86
+
+    # Ensure subsequent options set on "Default" configuration
+    ["Default"]
+}
+
+options
+{
+    builddir = build_temp
+}
+
+#### AUTO GENERATED deployment settings from DeployTool.exe. Do not edit below this line ####
+
+deployments
+{
+    icon = "resources/assets/icon_1.png"
+    name = "match"
+    playbook-author = "Markus Neubrand"
+    playbook-authorid = "gYAAgDCxVmVIxtv73L0YKwmF82U"
+    provider = "Markus Neubrand"
+    splashscreen-auto-onblack = "1"
+    version-major = "1"
+    version-minor = "0"
+    version-revision = "1"
+}

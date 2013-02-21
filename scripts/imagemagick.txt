@@ -1,0 +1,5 @@
+Make all images same height:
+for i in *; do mogrify -background transparent -gravity center -extent x69 $i; done
+
+Convert img_hd to img
+for i in img_hd/*; do convert -resize 50% $i img/`basename $i`; done
